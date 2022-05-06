@@ -10,7 +10,7 @@ y obteniendo inferencias básicas utilizando R/RStudio como herramienta de softw
 * Salinas Roca, Antonio Salinas.antonio1820@gmail.com
 
 # Descripción del dataset
-Este proyecto de pre-procesado y análisis del dataset [Hotel booking demand datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191) con R forma parte de una entrega para la asignatura de Administración de la Información. Los pasos realizados en este proyecto se encuentran en el siguiente [informe](https://github.com/DanielCGR/ea-2021-1-cc51/blob/main/INFORME%20TA1%20%233.pdf)
+Este proyecto de pre-procesado y análisis del dataset [Hotel booking demand datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191) con R forma parte de una entrega para la asignatura de Administración de la Información. Los pasos realizados en este proyecto se encuentran en el siguiente [informe](https://github.com/DanielCGR/ea-2021-1-cc51/blob/main/INFORME%20TA1.pdf)
 
 # Conclusiones
 * El tipo de hotel que prefiere la gran mayoría de gente suele ser el tipo “City Hotel”. Ya que la demanda es casi el doble que la de Resort Hotel.
